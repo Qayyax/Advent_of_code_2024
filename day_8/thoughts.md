@@ -9,3 +9,14 @@ The bad signal only occurs at any point that is perfectly in line with two anten
 
 meaning any pair of antenna with the same frequency (twice as far from each other) there are **two** antinodes
 , one on either side of the pair
+
+> [!INFO] row and col
+
+- Frequencies (lowercase, uppercase or digit)
+- pairs of the same frequency on different rows and col
+  - there is a row gap between the frequency pair
+  - There is also 1 row gap between the antinodes
+
+> [!TIP] check all directions as well
+
+because diagonally there can be a row gap as well
