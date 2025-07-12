@@ -16,7 +16,11 @@ meaning any pair of antenna with the same frequency (twice as far from each othe
 - pairs of the same frequency on different rows and col
   - there is a row gap between the frequency pair
   - There is also 1 row gap between the antinodes
+- Antinode can appear on a frequency as well
+
+I think the antinodes distance are of equal size to the row distance
 
 > [!TIP] check all directions as well
 
 because diagonally there can be a row gap as well
+but if the antinodes are out of bonds, at least one out of bound **ignore**
